@@ -2,6 +2,10 @@
 ## Pyber Analysis
 Analyze and visualize ride-sharing data using Python, Pandas, and Matplotlib. With the ride-sharing data organized by city type, a summary DataFrame and a multiple-line graph will help to provide business recommendations for addressing disparities among the city types.
 
+## Resources
+- Python 3.9.7, Pandas and Matplotlib libraries
+- Data source: city_data.csv, ride_data.csv
+
 # Results
 ## Differences in the ride-sharing data among the different city types
 
